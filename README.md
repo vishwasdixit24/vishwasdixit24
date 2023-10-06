@@ -3,7 +3,7 @@
 
 ## Hi there! 👋
 
-Welcome to my GitHub profile! I'm a passionate web developer with expertise lies in HTML, CSS, and JavaScript, and I have experience working with popular framework like React. I enjoy leveraging my skills to build responsive and visually appealing web applications. With a keen eye for design and a focus on user experience, I strive to create seamless interactions and delightful experiences for users. I'm constantly learning and exploring new technologies and best practices to stay at the forefront of front-end development. In my previous roles, I have successfully collaborated with cross-functional teams to deliver high-quality projects. In addition to this, I have a great interest in Database, working and expertise in MySQL since more than 2 years. I value clean code, maintainable solutions, and continuous improvement.
+Welcome to my GitHub profile! I'm a passionate web developer with expertise lies in HTML, CSS, and JavaScript, and I have experience working with popular framework like React JS. I enjoy leveraging my skills to build responsive and visually appealing web applications. With a keen eye for design and a focus on user experience, I strive to create seamless interactions and delightful experiences for users. I'm constantly learning and exploring new technologies and best practices to stay at the forefront of front-end development. In my previous roles, I have successfully collaborated with cross-functional teams to deliver high-quality projects. In addition to this, I have a great interest in Database, working and expertise in MySQL since more than 2 years. I value clean code, maintainable solutions, and continuous improvement.
 
 ### 🔭 My Focus
 
